@@ -1,4 +1,4 @@
-### Heyyyy everyone! ### (¬_¬)ﾉ
+### Heyyyy everyone! (¬_¬)ﾉ
 
 I'm André and I like music, dancing and reading.
 
