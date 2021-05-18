@@ -2,11 +2,8 @@
 
 I'm André and I like music, dancing and reading.
 
-For not such a long time I experiment with music programming languages and such. That's why I'm here and thankful for all the innovation going on here in that area.
-🌌SuperCollider🌌 is my language of choice. I also like 🚲TidalCycles🚲, which is based on it, but in 入Haskell入. Also I'm trying to learn ☾Lua☽ so I can use a Monome norns for future experimentations and eventual live performances.
+For not such a long time I experiment with music programming languages and such. That's mostly why I'm here.
+🌌SuperCollider🌌 is my language of choice. I also like 入🚲TidalCycles🚲入, which is based on it.
+I love people for their inoovations in these tools.
 
-Hit me up, if you like: http://u-bac.net/about.html
-
-<!--
-**callnasty/callnasty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+Moreover, I'm in a Web Dev traibning course right now, which is why I might need to clutter this profile here with mostly tedious and boring exercise and example files.
