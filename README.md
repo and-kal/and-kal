@@ -8,7 +8,7 @@ I love people for their inoovations in these tools.
 
 🔭 Moreover, I'm in a [training programme at Digital Career Institute](https://digitalcareerinstitute.org/) right now and aspiring to work as a web developer.
 
-- 🌱 I’m currently learning **JS, React, Haskell (+ Yesod), C# (+ Blazor), PHP**
+- 🌱 I’m currently learning **JS, React, Haskell** (eventually Yesod) **, C# (for Blazor), PHP**
 
 - 👯 I’m looking to collaborate on **web projects, livecoding-related stuff and, real-time audio synthesis and algorithmic composition**
 
