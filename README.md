@@ -12,7 +12,7 @@ I love people for their inoovations in these tools.
 
 - 👯 I’m looking to collaborate on **web projects, livecoding-related stuff and, real-time audio synthesis and algorithmic composition**
 
-- 👨‍💻 All of my projects are available at [https://github.com/callnasty/](https://github.com/callnasty/)
+- 👨‍💻 All of my projects are available at [https://github.com/and-kal/](https://github.com/and-kal/)
 
 - 💬 Ask me about **SuperCollider and A/V livecoding environments**
 
