@@ -14,7 +14,7 @@
 
 <h2 align="left">Connect with me here:</h2>
 <p align="left">
-<a href="https://mstdn.social/@staxl" target="_blank" rel="noopener noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_%28Simple%29.svg" alt="mastodon" height="30" width="40" /></a>
+<a href="https://sonomu.club/@staxl" target="_blank" rel="noopener noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_%28Simple%29.svg" alt="mastodon" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/andr%C3%A9-k-578791230/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://codepen.io/and-kal" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="callnasty" height="30" width="40" /></a>
 <a href="https://dev.to/kallnasty" target="_blank" rel="noopener noreferrer"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="kallnasty" height="30" width="40" /></a>
